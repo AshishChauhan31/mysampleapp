@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ashish chauhan</string>
+    <string name="title_activity_nextactivity">nextactivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="welcome_everyone">welcome everyone</string>
+    <string name="in_next_one_year_i_would_like_to_see_in_oracle">in next one year i would like to see in oracle.</string>
+    <string name="intro">Hi everyone i am ashish chauhan.\n
+        I am student in GLA university.\n
+        I am pursuing my MCA from GLA university.\n
+        I am studying android application development this year so this application is my first try.\n
+        In this application i am going to tell something about me</string>
+    <string name="title_activity_splash">splash</string>
+</resources>
