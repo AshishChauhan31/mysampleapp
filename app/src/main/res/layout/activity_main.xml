@@ -14,7 +14,7 @@
         android:layout_marginBottom="70dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@drawable/amarujala"
+        app:srcCompat="@drawable/dog"
         tools:layout_editor_absoluteX="0dp" />
 
     <TextView
